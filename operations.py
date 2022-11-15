@@ -1,8 +1,6 @@
 '''
 
-Python Calculator using GUI (Graphic User Interfce).
-'''
-
+Python Calculator using GUI (Graphical
 from tkinter import *
 
 # creating a blank screen
@@ -11,7 +9,7 @@ win.geometry('312x324')
 win.resizable(height=None, width=None)
 win.title('Calculator')
 
-expression = '' # a calculator starts with no value, blank space waiting to seceive a value
+expression = '' # a calculator starts with no value, blank space waiting to receive a value
 
 #declaring all inputs as a string
 input_text = StringVar()
