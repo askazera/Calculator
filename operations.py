@@ -1,7 +1,10 @@
 '''
 
-Python Calculator using GUI (Graphical
+Python Calculator using GUI (Graphical User Interface)
+'''
+
 from tkinter import *
+
 
 # creating a blank screen
 win = Tk()
